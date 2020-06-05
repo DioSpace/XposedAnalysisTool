@@ -1,4 +1,4 @@
-package com.my.xposedbasedemo;
+package com.my.XposedAnalysisTool;
 
 import android.content.Context;
 
